@@ -1,0 +1,363 @@
+test00.java
+Line 9: Multiple methods declarations: "Test2.next"
+1 type error found.
+
+test01.java
+0 type error found.
+
+test02.java
+0 type error found.
+
+test03.java
+0 type error found.
+
+test04.java
+0 type error found.
+
+test05.java
+0 type error found.
+
+test06.java
+0 type error found.
+
+test07.java
+0 type error found.
+
+test08.java
+0 type error found.
+
+test09.java
+0 type error found.
+
+test10.java
+0 type error found.
+
+test11.java
+Line 20: Type mismatch: "int=boolean"
+1 type error found.
+
+test12.java
+Line 20: Type mismatch: "int=boolean"
+1 type error found.
+
+test13.java
+Line 20: Type mismatch: "boolean=int"
+1 type error found.
+
+test14.java
+Line 20: Type mismatch: "boolean=int"
+1 type error found.
+
+test15.java
+Line 20: Type mismatch: "boolean=int"
+1 type error found.
+
+test16.java
+Line 11: Undefined variable: "op"
+1 type error found.
+
+test17.java
+Line 19: Undefined variable: "op"
+1 type error found.
+
+test18.java
+Line 14: Left expression of '[' is not an array
+1 type error found.
+
+test19.java
+Line 15: Type mismatch: "int[]=int"
+1 type error found.
+
+test20.java
+Line 17: Undefined method: "int[].start"
+1 type error found.
+
+test21.java
+Line 15: Index is not an integer
+1 type error found.
+
+test22.java
+Line 16: Index is not an integer
+1 type error found.
+
+test23.java
+Line 17: Index is not an integer
+1 type error found.
+
+test24.java
+Line 13: Condition expression is not a boolean
+1 type error found.
+
+test25.java
+Line 17: Condition expression is not a boolean
+1 type error found.
+
+test26.java
+Line 14: Condition expression is not a boolean
+1 type error found.
+
+test27.java
+0 type error found.
+
+test28.java
+Line 13: Condition expression is not a boolean
+1 type error found.
+
+test29.java
+Line 14: Undefined type: "op"
+1 type error found.
+
+test30.java
+Line 13: Undefined type: "test"
+1 type error found.
+
+test31.java
+Line 13: Array length is not an integer
+1 type error found.
+
+test32.java
+Line 14: Array length is not an integer
+1 type error found.
+
+test33.java
+Line 16: Array length is not an integer
+1 type error found.
+
+test34.java
+Line 11: Unable to print a non-digital expression
+1 type error found.
+
+test35.java
+Line 13: Unable to print a non-digital expression
+1 type error found.
+
+test36.java
+Line 13: Unable to print a non-digital expression
+1 type error found.
+
+test37.java
+Line 11: Condition expression is not a boolean
+1 type error found.
+
+test38.java
+Line 13: Condition expression is not a boolean
+1 type error found.
+
+test39.java
+Line 13: Condition expression is not a boolean
+1 type error found.
+
+test40.java
+Line 11: Condition expression is not a boolean
+1 type error found.
+
+test41.java
+Line 13: Condition expression is not a boolean
+1 type error found.
+
+test42.java
+Line 13: Condition expression is not a boolean
+1 type error found.
+
+test43.java
+Line 13: Not an array: "op"
+1 type error found.
+
+test44.java
+Line 13: Not an array: "op"
+1 type error found.
+
+test45.java
+Line 15: Index is not an integer
+1 type error found.
+
+test46.java
+Line 17: Index is not an integer
+1 type error found.
+
+test47.java
+Line 16: Index is not an integer
+1 type error found.
+
+test48.java
+Line 15: Type mismatch: "int=boolean"
+1 type error found.
+
+test49.java
+Line 17: Type mismatch: "int=Test"
+1 type error found.
+
+test50.java
+Line 16: Type mismatch: "int=int[]"
+1 type error found.
+
+test51.java
+Line 14: Type mismatch: "int=Test"
+1 type error found.
+
+test52.java
+Line 14: Type mismatch: "boolean=int"
+1 type error found.
+
+test53.java
+Line 16: Type mismatch: "int[]=int"
+1 type error found.
+
+test54.java
+Line 18: Type mismatch: "Test=Test2"
+1 type error found.
+
+test55.java
+0 type error found.
+
+test56.java
+0 type error found.
+
+test57.java
+0 type error found.
+
+test58.java
+0 type error found.
+
+test59.java
+Line 18: Type mismatch: "B=A"
+1 type error found.
+
+test60.java
+Line 22: Type mismatch: "C=B"
+1 type error found.
+
+test61.java
+Line 22: Type mismatch: "C=A"
+1 type error found.
+
+test62.java
+0 type error found.
+
+test63.java
+Line 17: Type mismatch: "Test2=Test"
+1 type error found.
+
+test64.java
+Line 11: Undefined variable: "i"
+1 type error found.
+
+test65.java
+Line 20: Return type mismatch: "Test=boolean"
+1 type error found.
+
+test66.java
+0 type error found.
+
+test67.java
+Line 21: Return type mismatch: "Test=int"
+1 type error found.
+
+test68.java
+Line 33: Return type mismatch: "Test=Test2"
+1 type error found.
+
+test69.java
+Line 9: Multiple methods declarations: "Test2.start"
+1 type error found.
+
+test70.java
+Line 14: Type mismatch: "Test=int"
+1 type error found.
+
+test71.java
+Line 21: Multiple variables declarations: "i"
+1 type error found.
+
+test72.java
+Line 7: Undefined class: "NotPresent"
+1 type error found.
+
+test73.java
+0 type error found.
+
+test74.java
+0 type error found.
+
+test75.java
+0 type error found.
+
+test76.java
+0 type error found.
+
+test77.java
+0 type error found.
+
+test78.java
+0 type error found.
+
+test79.java
+0 type error found.
+
+test80.java
+0 type error found.
+
+test81.java
+0 type error found.
+
+test82.java
+0 type error found.
+
+test83.java
+Line 14: Argument numbers not match: "Test.next"
+1 type error found.
+
+test84.java
+Line 14: Argument numbers not match: "Test.next"
+1 type error found.
+
+test85.java
+0 type error found.
+
+test86.java
+Line 17: Type mismatch: "Test=Test2"
+1 type error found.
+
+test87.java
+Line 13: Right expression of '+' is not an integer
+1 type error found.
+
+test88.java
+Line 14: Argument numbers not match: "Test.next"
+1 type error found.
+
+test89.java
+0 type error found.
+
+test90.java
+0 type error found.
+
+test91.java
+Line 16: Undefined method: "Test.next"
+1 type error found.
+
+test92.java
+Line 24: Undefined method: "Test.next"
+1 type error found.
+
+test93.java
+0 type error found.
+
+test94.java
+0 type error found.
+
+test95.java
+0 type error found.
+
+test96.java
+0 type error found.
+
+test97.java
+0 type error found.
+
+test98.java
+0 type error found.
+
+test99.java
+0 type error found.
+

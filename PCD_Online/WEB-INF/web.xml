@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+  <display-name>Interpreter</display-name>
+  <description>
+     MiniJava Interpreter
+  </description>
+
+<!-- JSPC servlet mappings start -->
+
+    <servlet>
+        <servlet-name>PCD</servlet-name>
+        <servlet-class>InterpreterServlet</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>PCD</servlet-name>
+        <url-pattern>/pcd</url-pattern>
+    </servlet-mapping>
+
+<!-- JSPC servlet mappings end -->
+
+</web-app>

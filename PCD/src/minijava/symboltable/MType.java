@@ -1,0 +1,1 @@
+package minijava.symboltable ;public abstract class MType//MType类，所有符号表元素的基类{}
