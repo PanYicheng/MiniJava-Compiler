@@ -12,5 +12,5 @@ It includes five stages of work:<br/>
   3. Anaylze the liveness of all variables and allocate registers
 - Convert Kanga to MIPS assembly
 
-This program passed all five automatica tests perfectly and got a score of 99 in the end of the semester.
+This program passed all five automatic tests perfectly and got a score of 99 in the end of the semester.
 
