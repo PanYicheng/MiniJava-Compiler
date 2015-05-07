@@ -14,4 +14,3 @@ It includes five stages of work:<br/>
 
 This program passed all five automatic tests perfectly and got a score of 99 in the end of the semester.<br/>
 I also uploaded an online MiniJava compiler, which is based on a Java Servlet.
-
