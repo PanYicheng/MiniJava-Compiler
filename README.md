@@ -9,7 +9,7 @@ It includes five stages of work:
 - Convert Piglet to SPiglet: Removed all nested expressions.
 - Convert SPiglet to Kanga:
   1. Anaylze all reachable definitions in the intermediate codes
-  2. Transform the codes into SSA (Single-Static Assignment) Form
+  2. Transform the codes into SSA (Static-Single Assignment) Form
   3. Anaylze the liveness of all variables and allocate registers
 - Convert Kanga to MIPS assembly
 
