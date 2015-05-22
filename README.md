@@ -4,9 +4,9 @@ MiniJava Compiler
 A perfect MiniJava compiler, convert MiniJava codes to Piglet, SPiglet, Kanga and MIPS assembly.
 
 It includes five stages of work:
-- Check the errors of codes.
-- Convert MiniJava to Piglet: Transform an Object-Oriented language to a Procedure-Oriented language.
-- Convert Piglet to SPiglet: Removed all nested expressions.
+- Check the errors of codes
+- Convert MiniJava to Piglet: Transform an Object-Oriented language to a Procedure-Oriented language
+- Convert Piglet to SPiglet: Removed all nested expressions
 - Convert SPiglet to Kanga:
   1. Anaylze all reachable definitions in the intermediate codes
   2. Transform the codes into SSA (Static-Single Assignment) Form
