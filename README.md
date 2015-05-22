@@ -1,8 +1,9 @@
 MiniJava Compiler
 =================
 
-A perfect MiniJava compiler, convert MiniJava codes to Piglet, SPiglet, Kanga and MIPS assembly.<br/>
-It includes five stages of work:<br/>
+A perfect MiniJava compiler, convert MiniJava codes to Piglet, SPiglet, Kanga and MIPS assembly.
+
+It includes five stages of work:
 - Check the errors of codes.
 - Convert MiniJava to Piglet: Transform an Object-Oriented language to a Procedure-Oriented language.
 - Convert Piglet to SPiglet: Removed all nested expressions.
@@ -12,5 +13,5 @@ It includes five stages of work:<br/>
   3. Anaylze the liveness of all variables and allocate registers
 - Convert Kanga to MIPS assembly
 
-This program passed all five automatic tests perfectly and got a score of 99 in the end of the semester.<br/>
+This program passed all five automatic tests perfectly and got a score of 99 in the end of the semester.
 I also uploaded an online MiniJava compiler, which is based on a Java Servlet.
